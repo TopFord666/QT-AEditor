@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/save.png</file>
+        <file>img/back.png</file>
+        <file>img/copy.png</file>
+        <file>img/Cut.png</file>
+        <file>img/Exit.png</file>
+        <file>img/find.png</file>
+        <file>img/Font.png</file>
+        <file>img/FontColor.png</file>
+        <file>img/New.png</file>
+        <file>img/NewLine.png</file>
+        <file>img/open.png</file>
+        <file>img/OtherSave.png</file>
+        <file>img/PageSet.png</file>
+        <file>img/paste.png</file>
+        <file>img/ReNew.png</file>
+        <file>img/Replace.png</file>
+        <file>img/ShowLine.png</file>
+        <file>img/StatusBar.png</file>
+        <file>img/ToolBar.png</file>
+    </qresource>
+</RCC>
