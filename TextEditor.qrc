@@ -19,5 +19,6 @@
         <file>img/ShowLine.png</file>
         <file>img/StatusBar.png</file>
         <file>img/ToolBar.png</file>
+        <file>img/about.png</file>
     </qresource>
 </RCC>
